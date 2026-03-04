@@ -9,7 +9,7 @@ class Task:
 
     def complete(self):
         self.completed = True
-        print(f"✅ Task '{self.title} completed.") 
+        print(f"✅ Task '{self.title}' completed.") 
 
 # TODO: Define the User class
 # Each user has a name and a list of tasks
